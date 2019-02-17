@@ -1,0 +1,17 @@
+#h11{
+  color:yellow;
+  background: red;
+  text-align: center;
+}
+#h12{
+  color:green;
+  background: cyan;
+  border:5px solid yellow;
+}
+img{
+  height:300px;
+  width:300px;
+  border:2px solid green;
+  margin-top:20px;
+  margin-left: 100px;
+}
